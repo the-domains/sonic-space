@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sonic Space]]></title>
         <description><![CDATA[Sonic Space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sonic-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 05:16:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 04:34:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sonic-space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc6883a7-bebf-4e8f-918a-8a1698cc2c6d.jpg">]]></description>
+            <link>https://thegrid.ai/sonic-space/b4dfe592-ff08-474d-ac49-a965da88a432/index.html</link>
+            <guid isPermaLink="false">b4dfe592-ff08-474d-ac49-a965da88a432</guid>
+            <pubDate>Tue, 08 Mar 2016 04:34:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb965f6f-1bc3-4913-8b06-f68bbcd5bf3c.jpg">]]></description>
-            <link>undefinede8ca8597-c2e5-4322-9327-6ea10dcbad4e/index.html</link>
+            <link>https://thegrid.ai/sonic-space/e8ca8597-c2e5-4322-9327-6ea10dcbad4e/index.html</link>
             <guid isPermaLink="false">e8ca8597-c2e5-4322-9327-6ea10dcbad4e</guid>
             <pubDate>Fri, 04 Mar 2016 05:16:20 GMT</pubDate>
         </item>
