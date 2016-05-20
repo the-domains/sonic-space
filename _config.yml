@@ -1,28 +1,18 @@
-name: Sonic Space
-favicon: null
-layout_spectrum: 0.8952
-typography_spectrum: 0.67555
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#010101'
-    - '#ffffff'
-    - '#f40000'
-    - '#f67701'
-    - '#653353'
+    - '#181F2F'
+    - '#D7D8D0'
+    - '#47648E'
+    - '#FDA25C'
+    - '#86939C'
   brandStrength: 0.1875
   lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 1
+  rhythmicContrast: 0
+  saturation: 0.452302
+cta: {}
+layout_spectrum: 0.631578
+name: Sonic Space
+opengraph: {}
 purpose: []
+typography_spectrum: 0.712171
