@@ -16,3 +16,5 @@ name: Sonic Space
 opengraph: {}
 purpose: []
 typography_spectrum: 0.712171
+coverPrefs:
+  filter: false
